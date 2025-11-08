@@ -4,12 +4,12 @@ This project combines Python and PHP components to facilitate data generation,
 model training, and prediction using LSTM models. 
 Below is an index of documentation files that describe each part of the system in detail. 
 
-[Setup](setup.md) - Environment setup and dependencies 
+[Setup](docs/app/setup.md) - Environment setup and dependencies 
 
-[Data](data.md) - Data generation process using data.php 
+[Data](docs/app/data.md) - Data generation process using data.php 
 
-[Training](train.md) - Training LSTM models using train.py 
+[Training](docs/app/train.md) - Training LSTM models using train.py 
 
-[Predictions](predict.md) - Making predictions using trained models with predict.py 
+[Predictions](docs/app/predict.md) - Making predictions using trained models with predict.py 
 
-[Support Class (PHP) Progress Bar](progress.md) - CLI progress bar utility in Progress.php 
+[Support Class (PHP) Progress Bar](docs/app/progress.md) - CLI progress bar utility in Progress.php 
