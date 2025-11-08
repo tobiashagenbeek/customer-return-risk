@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+polars>=1.35
+matplotlib>=3.10
+torch>=2.9
+tabulate>=0.9
+
+# Core Other (non-scientific)
+tqdm>=4.67
+
+# API stack
+fastapi>=0.110
+uvicorn[standard]>=0.23
+pydantic>=2.5
+
+# Optional: useful in ops
+python-dotenv>=1.0

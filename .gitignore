@@ -1,0 +1,8 @@
+artifacts/**
+!artifacts/.gitkeep
+
+*.csv
+artifacts/*.csv
+!history.csv
+
+.venv/
